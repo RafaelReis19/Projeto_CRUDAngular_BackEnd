@@ -1,0 +1,77 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Curso de Angular",
+      "validade": "2021-12-31",
+      "precoProduto": 550.54
+    },
+    {
+      "nome": "Curso novo de Angular avançado",
+      "validade": "2021-12-31",
+      "precoProduto": 600.5,
+      "id": 2
+    },
+    {
+      "nome": "Curso de Phyton",
+      "validade": "2021-12-31",
+      "precoProduto": 500.45,
+      "id": 3
+    },
+    {
+      "nome": "Viagem para o Canadá",
+      "validade": "2021-12-31",
+      "precoProduto": 1600,
+      "id": 4
+    },
+    {
+      "nome": "Viagem à praia",
+      "validade": "2021-12-31",
+      "precoProduto": 1200,
+      "id": 5
+    },
+    {
+      "nome": "Curso de C#",
+      "validade": "2021-12-31",
+      "precoProduto": 605.3,
+      "id": 6
+    }
+  ],
+  "obras": [
+    {
+      "id": 1,
+      "nome": "Quadro de cor sólida",
+      "tipo": "Quadro",
+      "validade": "2021-12-31",
+      "precoProduto": 550.54
+    },
+    {
+      "nome": "Caos em LA",
+      "tipo": "Pixel Art",
+      "validade": "2022-01-31",
+      "precoProduto": 50.3,
+      "id": 2
+    },
+    {
+      "nome": "Espreitas do Vazio cap. 1 - A rainha Xer'Sai",
+      "tipo": "Livro",
+      "validade": "2022-12-31",
+      "precoProduto": 67.99,
+      "id": 3
+    },
+    {
+      "nome": "Dancing",
+      "tipo": "Música Pop/Eletrônica",
+      "validade": "2021-12-31",
+      "precoProduto": 3.5,
+      "id": 4
+    },
+    {
+      "nome": "Tony Ramos - Realista",
+      "tipo": "Desenho de estilo realista",
+      "validade": "2021-12-31",
+      "precoProduto": 79.99,
+      "id": 5
+    }
+  ]
+}
